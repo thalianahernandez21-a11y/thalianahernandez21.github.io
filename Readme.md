@@ -1,4 +1,6 @@
-<HTML>
+<!DOCTYPE html>
+<html lang="es">
+    <HTML>
 <HEAD>
 PAGINAS WEB FAVORITAS /2025
 </HEAD>
@@ -36,5 +38,6 @@ PAGINAS WEB FAVORITAS /2025
 </table>
 </CENTER>
 </BODY>
+
 
 
